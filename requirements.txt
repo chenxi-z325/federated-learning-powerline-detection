@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+websockets
+sqlalchemy
+torch
+torchvision
+ultralytics
+requests
+numpy
+pillow
+pydantic
+python-dotenv
+opencv-python
+tqdm
